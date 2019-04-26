@@ -9,13 +9,13 @@
     <Description>Navigate to https://qmetrytestdocs.atlassian.net</Description>
     <StartTime>2016-05-12 11:03:11</StartTime>
     <Result>Done</Result>
-    <Extension>
+    <Extension>      
       <TestObject>
         <Path>
-          <Object>
+          <Object>     
             <Type>Browser</Type>
             <Name><![CDATA[StartUp Browser]]></Name>
-          </Object>
+          </Object>    
         </Path>
         <Operation>Navigate</Operation>
         <OperationData><![CDATA[Navigate to https://qmetrytestdocs.atlassian.net]]></OperationData>
