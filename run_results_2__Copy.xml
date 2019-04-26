@@ -3,7 +3,7 @@
 <ReportNode type="testrun">
 <ReportNode type="Iteration">
 <ReportNode type="Context"> 
-<ReportNode type="Step">
+<ReportNode type="Step">     
 <Data> 
     <Name>StartUp Browser.Navigate</Name>
     <Description>Navigate to https://qmetrytestdocs.atlassian.net</Description>
